@@ -2,7 +2,7 @@
 Using pandas to generate daily report by using data from 4 excel files. Performing various operations on them and in the end combining generated information in one excel file.
 
 
-### This repository consists of files required to combine data from different excel files into one. Also, how to format generated excel using xlsx writer.
+### This repository consists of files required to combine data from different excel files into one. Also, how to format generated excel file using xlsx writer.
 
 
 
