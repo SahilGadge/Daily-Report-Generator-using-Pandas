@@ -27,7 +27,7 @@ __Screenshot__:<br />
   ![output](https://user-images.githubusercontent.com/36062668/95073072-e01d4400-0729-11eb-97f7-c53dcfb43a93.png)
   
   **Input - Sales and Summary Report excel file snapshot**<br />
-  !![sales sum](https://user-images.githubusercontent.com/36062668/95072619-1c03d980-0729-11eb-81bf-b55c8cfdebb4.png)
+  ![sales sum](https://user-images.githubusercontent.com/36062668/95072619-1c03d980-0729-11eb-81bf-b55c8cfdebb4.png)
   **Input - GRNReport excel file snapshot**<br />
   ![GRN](https://user-images.githubusercontent.com/36062668/95073084-e4496180-0729-11eb-88d6-fa3435018365.png)
 
