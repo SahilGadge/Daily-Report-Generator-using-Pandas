@@ -23,8 +23,8 @@ Using pandas to generate daily report by using data from 4 excel files. Performi
   4. XLSX writer <br />
  
 __Screenshot__:<br />
-  **Accuracy**
-  ![Annotation 2020-07-20 221832](https://user-images.githubusercontent.com/36062668/89626414-03a54900-d8b7-11ea-89dc-fff229c1ab31.png)
+  **Input - Sales and Summary excel file snapshot**
+  !![sales sum](https://user-images.githubusercontent.com/36062668/95072619-1c03d980-0729-11eb-81bf-b55c8cfdebb4.png)
 
 
 
