@@ -16,7 +16,7 @@ Using pandas to generate daily report by using data from 4 excel files. Performi
  3. PriceList.xlsx
  4. MaterialIndent.xlsx
  
-• __Dependencies__:
+• __Dependencies__: <br />
   1.Python - 3.6 <br />
   2.Pandas <br /> 
   3.Numpy <br />
